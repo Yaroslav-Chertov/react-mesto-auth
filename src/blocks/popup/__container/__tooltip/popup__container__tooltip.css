@@ -1,0 +1,9 @@
+.popup__container__tooltip {
+    padding: 60px 36px;
+}
+
+@media (max-width: 768px) {
+    .popup__container__tooltip {
+        padding: 49px 18px;
+    }
+}

@@ -1,0 +1,9 @@
+.header__user-email {
+    margin: 0;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 22px;
+    color: #ffffff;
+    white-space: nowrap;
+    text-align: right;
+}

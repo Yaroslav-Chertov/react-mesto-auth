@@ -1,0 +1,22 @@
+.ident__link {
+    margin: 216px 0 0;
+    padding: 13px 0;
+    font-size: 18px;
+    line-height: 22px;
+    border-radius: 2px;
+    transition: 0.3s;
+    border: none;
+}
+
+.ident__link:hover {
+    cursor: pointer;
+    opacity: 0.85;
+}
+
+@media (max-width: 768px) {
+    .ident__link {
+        margin: 172px 0 0;
+        font-size: 16px;
+        line-height: 19px;
+    }
+}

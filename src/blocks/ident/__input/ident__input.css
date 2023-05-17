@@ -1,0 +1,15 @@
+.ident__input {
+    padding-bottom: 13px;
+    margin-bottom: 30px;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 17px;
+    font-style: normal;
+    color: #fff;
+    border: none;
+    border-bottom: 2px solid #cccccc;
+    background-color: black;
+    width: 100%;
+    box-sizing: border-box;
+    outline: none;
+}

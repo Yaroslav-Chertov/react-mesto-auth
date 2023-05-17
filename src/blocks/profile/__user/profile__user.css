@@ -1,0 +1,9 @@
+.profile__user {
+  display: flex;
+}
+
+@media screen and (max-width: 569px) {
+  .profile__user {
+    margin-left: 27px;
+  }
+}
