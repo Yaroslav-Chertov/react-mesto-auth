@@ -1,6 +1,6 @@
 # Проект: Место React Auth
 
-[Ссылка на GitHub Pages](https://yaroslav-chertov.github.io/mesto-react-auth/)
+[Ссылка на GitHub Pages](https://yaroslav-chertov.github.io/react-mesto-auth/)
 
 ## Создана в рамках обучения в [Яндекс.Практикум](https://praktikum.yandex.ru/) на курсе ["Веб-разработчик"](https://praktikum.yandex.ru/web/)
 
